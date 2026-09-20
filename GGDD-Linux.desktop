@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=GGDD Linux Client
+Comment=Lightweight GGDD client and proxy controller
+Exec=/home/hunt/Desktop/ggdd-linux-client/run-ggdd-linux-client.sh
+Terminal=false
+Categories=Network;
